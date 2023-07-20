@@ -4,16 +4,16 @@ Welcome to our GadgetGo project! In this project, we aim to create a fully funct
 
 
 ---
- <img src="./client/src/IMGs/home.PNG" alt=""  />
+ <img src="images/home.PNG" alt=""  />
 
 
 ---
- <img src="./client/src/IMGs/about.PNG" alt=""  />
+ <img src="images/about.PNG" alt=""  />
 
  ---
- <img src="./client/src/IMGs/cart.PNG" alt=""  />
+ <img src="images/cart.PNG" alt=""  />
  ---
- <img src="./client/src/IMGs/detail.PNG" alt=""  />
+ <img src="images/detail.PNG" alt=""  />
 
 ---
 
