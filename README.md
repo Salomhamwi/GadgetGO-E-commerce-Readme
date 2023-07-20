@@ -3,7 +3,7 @@
 Welcome to our GadgetGo project! In this project, we aim to create a fully functional e-commerce website focused on wearable technology. Users will be able to explore and purchase various wearable devices, ranging from smartwatches to fitness trackers and more.
 
 
----
+----
  <img src="images/home.PNG" alt=""  />
 
 
@@ -15,7 +15,7 @@ Welcome to our GadgetGo project! In this project, we aim to create a fully funct
  ---
  <img src="images/detail.PNG" alt=""  />
 
----
+----
 
 
 
